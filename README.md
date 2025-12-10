@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Jesutofunmi Adeboye
 
-🚀 **Aspiring DevOps Engineer | Terraform Certified | Cloud & Automation Enthusiast**
+🚀 **DevOps Engineer | Terraform Certified | Cloud & Automation Enthusiast**
 
 I’m a **results-driven DevOps Engineer** with hands-on experience designing, automating, and managing cloud-native infrastructure. I specialize in **Infrastructure as Code, CI/CD automation, containerized applications, and Kubernetes deployments**.  
 
 My focus is simple:  
 👉 **Reduce manual work, ship faster, and build reliable systems that scale.**
 
-I enjoy turning complex problems into clean, automated workflows — and I’m actively seeking opportunities to grow, learn, and contribute to real-world DevOps teams.
+I turn complex infrastructure challenges into clean, automated workflows and contribute effectively to production DevOps environments.
 
 ---
 
