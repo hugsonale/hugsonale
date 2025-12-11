@@ -1,99 +1,37 @@
-# 👋 Hi, I’m Jesutofunmi Adeboye
+<h1 align="center">Hi 👋, I'm Jesutofunmi Adeboye</h1>
+<h3 align="center">DevOps Engineer | AWS, Terraform & Kubernetes Specialist | Automation & Cloud Infrastructure Builder</h3>
 
-🚀 **DevOps Engineer | Terraform Certified | Cloud & Automation Enthusiast**
+<h3 align="center"> I’m a Certified Terraform Associate and DevOps Engineer with hands-on experience automating cloud infrastructure, building CI/CD pipelines, and deploying containerized applications. I specialize in Infrastructure as Code (Terraform, Ansible, Puppet), cloud platforms like AWS, Docker & Kubernetes orchestration, and monitoring with Prometheus and Grafana. I create efficient, reliable, and fully automated workflows that help teams deploy faster, reduce errors, and scale systems effectively.</h3>
 
-I’m a **results-driven DevOps Engineer** with hands-on experience designing, automating, and managing cloud-native infrastructure. I specialize in **Infrastructure as Code, CI/CD automation, containerized applications, and Kubernetes deployments**.  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugsonale" alt="hugsonale" /></a> </p>
 
-My focus is simple:  
-👉 **Reduce manual work, ship faster, and build reliable systems that scale.**
+- 🔭 I've worked on projects like: [Node.js Zero-Downtime Deployment Pipeline](https://github.com/hugsonale/nodejs-zero-downtime-deploy)
 
-I turn complex infrastructure challenges into clean, automated workflows and contribute effectively to production DevOps environments.
+- 🔭 I've worked on projects like: [Three-Tier AWS Architecture on EKS](https://github.com/hugsonale/three-tier-architecture-demo)
 
----
+- 🔭 I've worked on projects like: [terraform-provider-hostinger](https://github.com/hugsonale/terraform-provider-hostinger)
 
-## 🛠️ Tech Stack & Tools
+- 📝 I regularly write articles on [https://medium.com/@adeboyejesutofunmi001](https://medium.com/@adeboyejesutofunmi001)
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+- 💬 Ask me about **Terraform & Infrastructure as Code (IaC) CI/CD Pipelines (GitHub Actions, Jenkins) Docker & Kubernetes (Containerization & Orchestration) Monitoring & Logging (Prometheus, Grafana) AWS Cloud Services (EC2, S3, VPC, RDS) Automation & Scripting (Python, Ansible) Multi-Service Application Deployment Scaling & Performance Optimization**
 
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+- 📫 How to reach me **adeboyejesutofunmi001@gmail.com**
 
-### 🔁 CI/CD & Version Control
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ⚡ Fun fact **I’m very playful by nature, but serious when it comes to building reliable, automated systems.**
 
-### 📊 Monitoring, Scripting & Ops
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devbyjesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbyjesu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jesutofunmi-adeboye-402a16217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesutofunmi-adeboye-402a16217/" height="30" width="40" /></a>
+<a href="https://medium.com/@adeboyejesutofunmi001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adeboyejesutofunmi001" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/112001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="112001" height="30" width="40" /></a>
+</p>
 
-## 💼 Professional Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-### **DevOps Engineer** — *Techsense Developers* (Remote)
-- Provisioned **AWS infrastructure with Terraform** (EC2, VPCs, S3), reducing setup time by **75%**
-- Built **CI/CD pipelines using GitHub Actions** for Node.js & Python applications — deploy time cut from **2 hours to 15 minutes**
-- Containerized applications with **Docker & Docker Compose**, reducing deployment errors by **60%**
-- Implemented **Prometheus & Grafana dashboards** for real-time system and application monitoring
-
-### **DevOps & Cloud Operations Intern** — *Itana* (Remote)
-- Designed and deployed **3-tier AWS architecture** using Terraform, cutting provisioning time by **80%**
-- Built end-to-end CI/CD pipelines with **Jenkins, Docker, and GitHub Actions**
-- Deployed and scaled applications on **Kubernetes (EKS)** from 2 to 10 pods with auto-scaling
-- Automated server configuration and infrastructure tasks using **Ansible** across multiple environments
-
----
-
-## 🚀 Projects
-
-### 🔹 Multi-Service Web Application Deployment
-- Built and deployed a **Node.js backend + React frontend**
-- Containerized services using **Docker & Docker Compose**
-- Automated build, test, and deployment using **GitHub Actions**
-- Deployed to **AWS EC2**, ensuring consistency across environments
-
-### 🔹 Kubernetes Web Application Deployment
-- Deployed containerized applications on **Minikube** and later **AWS EKS**
-- Created Kubernetes **Deployments, Services, and HPA**
-- Enabled auto-scaling and load balancing for increased traffic
-
-> 📌 *Check my pinned repositories below for architecture diagrams, IaC code, and CI/CD workflows.*
-
----
-
-## 🎓 Certifications
-✅ **HashiCorp Certified: Terraform Associate (003)** – HashiCorp  
-✅ **AWS Certified Cloud Practitioner (CLF-C02)** – Udemy  
-✅ **Building Cloud-Native & Multicloud Applications** – Cognitive Class  
-✅ **DevOps Beginners to Advanced with Projects** – Udemy  
-
----
-
-## 🎓 Education
-**Bachelor of Arts – English Education**  
-University of Ilorin, Kwara, Nigeria (2020)
-
----
-
-## 📫 Let’s Connect
-- 💼 Open to **DevOps / Cloud / Platform Engineer roles**
-- 🌍 Open to **remote & global opportunities**
-- 🔗 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
-
-> *I believe great infrastructure should be invisible, reliable, and fully automated — and I’m excited to help build it.*
-
----
-
-⭐ **If you’re a recruiter or hiring manager, feel free to explore my repositories or reach out.**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugsonale&show_icons=true&locale=en" alt="hugsonale" /></p>
