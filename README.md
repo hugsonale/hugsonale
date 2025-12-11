@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jesutofunmi Adeboye</h1>
-<h3 align="center">DevOps Engineer | AWS, Terraform & Kubernetes Specialist | Automation & Cloud Infrastructure Builder</h3>
+<h1 align="left">Hi 👋, I'm Jesutofunmi Adeboye</h1>
+<h3 align="left">DevOps Engineer | AWS, Terraform & Kubernetes Specialist | Automation & Cloud Infrastructure Builder</h3>
 
-<h3 align="center"> I’m a Certified Terraform Associate and DevOps Engineer with hands-on experience automating cloud infrastructure, building CI/CD pipelines, and deploying containerized applications. I specialize in Infrastructure as Code (Terraform, Ansible, Puppet), cloud platforms like AWS, Docker & Kubernetes orchestration, and monitoring with Prometheus and Grafana. I create efficient, reliable, and fully automated workflows that help teams deploy faster, reduce errors, and scale systems effectively.</h3>
+<p align="left"> I’m a Certified Terraform Associate and DevOps Engineer with hands-on experience automating cloud infrastructure, building CI/CD pipelines, and deploying containerized applications. I specialize in Infrastructure as Code (Terraform, Ansible, Puppet), cloud platforms like AWS, Docker & Kubernetes orchestration, and monitoring with Prometheus and Grafana. I create efficient, reliable, and fully automated workflows that help teams deploy faster, reduce errors, and scale systems effectively.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugsonale" alt="hugsonale" /></a> </p>
 
