@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@adeboyejesutofunmi001](https://medium.com/@adeboyejesutofunmi001)
 
-- 💬 Ask me about **Terraform & Infrastructure as Code (IaC) CI/CD Pipelines (GitHub Actions, Jenkins) Docker & Kubernetes (Containerization & Orchestration) Monitoring & Logging (Prometheus, Grafana) AWS Cloud Services (EC2, S3, VPC, RDS) Automation & Scripting (Python, Ansible) Multi-Service Application Deployment Scaling & Performance Optimization**
+- 💬 Ask me about **Terraform & Infrastructure as Code (IaC) CI/CD Pipelines (GitHub Actions, Jenkins) Docker & Kubernetes (Containerization & Orchestration) Monitoring & Logging (Prometheus,
 
 - 📫 How to reach me **adeboyejesutofunmi001@gmail.com**
 
