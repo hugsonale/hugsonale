@@ -31,9 +31,9 @@ My work spans **AWS, Azure, and GCP**, with hands-on expertise in Kubernetes, Do
 
 <div align="center">
 
-[![YouTube Subscribers](https://img.shields.io/badge/YouTube%20Subscribers-12.5K-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![YouTube Views](https://img.shields.io/badge/Total%20Views-850K%2B-FF4500?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-8.2K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![YouTube Subscribers](https://img.shields.io/badge/YouTube%20Subscribers-12.5K-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jesutofunmiadeboyee)
+[![YouTube Views](https://img.shields.io/badge/Total%20Views-850K%2B-FF4500?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jesutofunmiadeboyee)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-8.2K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesutofunmi-adeboye-402a16217/)
 [![Articles](https://img.shields.io/badge/Technical%20Articles-40%2B-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 
 </div>
