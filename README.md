@@ -156,6 +156,6 @@ I'm available for **DevOps Engineer** roles, **cloud consulting**, and **technic
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=22C55E&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hugsonale&style=for-the-badge&color=22C55E&label=Profile+Views)
 
 </div>
