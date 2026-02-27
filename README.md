@@ -23,7 +23,7 @@ I'm a results-driven **DevOps Engineer** with experience designing and managing 
 
 My work spans **AWS, Azure, and GCP**, with hands-on expertise in Kubernetes, Docker, and the broader cloud-native ecosystem. I'm passionate about developer experience, infrastructure reliability, and sharing knowledge through technical content. Whether it's reducing cloud costs, hardening security posture, or mentoring teams, I bring ownership, depth, and precision to every engagement.
 
-> *"I don't just keep the lights on — I build the systems that make sure they never go out."*
+> *"I don't just keep the lights on, I build the systems that make sure they never go out."*
 
 ---
 
