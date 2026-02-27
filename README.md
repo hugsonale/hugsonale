@@ -142,8 +142,6 @@ I'm available for **DevOps Engineer** roles, **cloud consulting**, and **technic
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-
 </div>
 
 ---
