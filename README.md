@@ -97,7 +97,7 @@ My work spans **AWS, Azure, and GCP**, with hands-on expertise in Kubernetes, Do
 
 | | | |
 |:---:|:---:|:---:|
-| [![Kubernetes Full Course](https://img.youtube.com/vi/VIDEO_ID_1/mqdefault.jpg)](https://youtu.be/VIDEO_ID_1) | [![Terraform on AWS](https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg)](https://youtu.be/VIDEO_ID_2) | [![GitHub Actions CI/CD](https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg)](https://youtu.be/VIDEO_ID_3) |
+| [![DevOps From Zero to Hero](https://img.youtube.com/vi/vg6bOAdHzUw/mqdefault.jpg)](https://youtu.be/vg6bOAdHzUw) | [![Learn Git & GitHub](https://img.youtube.com/vi/c_lapJD-g00/mqdefault.jpg)](https://youtu.be/c_lapJD-g00) | [![GitHub Actions CI/CD](https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg)](https://youtu.be/VIDEO_ID_3) |
 | **Kubernetes Full Course** | **Terraform on AWS** | **GitHub Actions CI/CD** |
 | [![Docker Deep Dive](https://img.youtube.com/vi/VIDEO_ID_4/mqdefault.jpg)](https://youtu.be/VIDEO_ID_4) | [![AWS EKS Setup](https://img.youtube.com/vi/8Mh5oXYH6TI/mqdefault.jpg)](https://youtu.be/8Mh5oXYH6TI) | [![DevOps Roadmap 2026](https://img.youtube.com/vi/VIDEO_ID_6/mqdefault.jpg)](https://youtu.be/VIDEO_ID_6) |
 | **Docker Deep Dive** | **AWS EKS Setup** | **DevOps Roadmap 2026** |
