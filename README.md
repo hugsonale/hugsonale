@@ -19,9 +19,9 @@
 
 ## 🧭 Professional Summary
 
-I'm a results-driven **Senior DevOps Engineer** with 7+ years of experience designing and managing cloud-native infrastructure at scale. I specialize in bridging the gap between development and operations — architecting CI/CD pipelines that cut release cycles by up to 80%, automating infrastructure with Terraform and Ansible, and building observability stacks that catch issues before they become incidents.
+I'm a results-driven **DevOps Engineer** with experience designing and managing cloud-native infrastructure at scale. I specialize in bridging the gap between development and operations, architecting CI/CD pipelines that cut release cycles by up to 80%, automating infrastructure with Terraform and Ansible, and building observability stacks that catch issues before they become incidents.
 
-My work spans **AWS, Azure, and GCP**, with hands-on expertise in Kubernetes, Docker, and the broader cloud-native ecosystem. I'm passionate about developer experience, infrastructure reliability, and sharing knowledge through technical content. Whether it's reducing cloud costs, hardening security posture, or mentoring teams — I bring ownership, depth, and precision to every engagement.
+My work spans **AWS, Azure, and GCP**, with hands-on expertise in Kubernetes, Docker, and the broader cloud-native ecosystem. I'm passionate about developer experience, infrastructure reliability, and sharing knowledge through technical content. Whether it's reducing cloud costs, hardening security posture, or mentoring teams, I bring ownership, depth, and precision to every engagement.
 
 > *"I don't just keep the lights on — I build the systems that make sure they never go out."*
 
