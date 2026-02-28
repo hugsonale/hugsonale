@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Jesutofunmi Adeboye
 ### DevOps Engineer · Cloud Architect · Automation Enthusiast
 
-*Building resilient infrastructure, accelerating delivery pipelines, and turning complexity into elegant automation.*
+*I automate infrastructure, simplify deployments, and improve system reliability.*
 
 <br/>
 
