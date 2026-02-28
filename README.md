@@ -120,9 +120,9 @@ My work spans **AWS, Azure, and GCP**, with hands-on expertise in Kubernetes, Do
 
 I'm available for **DevOps Engineer** roles, **cloud consulting**, and **technical content collaborations**.
 
-[![LinkedIn](https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email Me](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Book a Call](https://img.shields.io/badge/Book%20a%20Call-00B884?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesutofunmi-adeboye-402a16217/)
+[![Email Me](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeboyejesutofunmi001@gmail.com)
+[![Book a Call](https://img.shields.io/badge/Book%20a%20Call-00B884?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/jesutofunmiadeboye)
 
 </div>
 
