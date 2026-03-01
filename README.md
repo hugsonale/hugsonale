@@ -9,8 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesutofunmi-adeboye-402a16217/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jesutofunmiadeboyee)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugsonale)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeboyejesutofunmi001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-00B884?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeboyejesutofunmi001@gmail.com)
 
 
 </div>
