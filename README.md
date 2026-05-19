@@ -125,16 +125,6 @@ I'm available for **DevOps Engineer** roles, **cloud consulting**, and **technic
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
 <br/><br/>
 
 </div>
