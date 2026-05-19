@@ -32,8 +32,8 @@ My work spans **AWS, Azure, and GCP**, with hands-on expertise in Kubernetes, Do
 
 [![YouTube Subscribers](https://img.shields.io/badge/YouTube%20Subscribers-2.69K-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jesutofunmiadeboyee)
 [![YouTube Views](https://img.shields.io/badge/Total%20Views-250,700K%2B-FF4500?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jesutofunmiadeboyee)
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-1.6K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesutofunmi-adeboye-402a16217/)
-[![Articles](https://img.shields.io/badge/Technical%20Articles-8%2B-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adeboyejesutofunmi001)
+[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn%20Followers-1.7K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesutofunmi-adeboye-402a16217/)
+[![Articles](https://img.shields.io/badge/Technical%20Articles-15%2B-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adeboyejesutofunmi001)
 
 </div>
 
